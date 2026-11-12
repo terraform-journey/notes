@@ -30,7 +30,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'terraform-journey', // Usually your GitHub org/user name.
   projectName: 'notes', // Usually your repo name.
-  deploymentBranch: 'main', // Branch to deploy to GitHub pages.
+  deploymentBranch: 'gh-pages', // Branch to deploy to GitHub pages.
 
   onBrokenLinks: 'throw',
 
